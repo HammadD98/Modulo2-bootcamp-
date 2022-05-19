@@ -11,7 +11,7 @@
 ### A analise dos dados tem como objetivos:
      - Explorar os dados
      - Analisar a a região sul e o Rio Grande do Sul. 
-     - Analisar a case de 2012(O qual foi descoberto atraves da exploração dos dados
+     - Analisar o case de 2012(O qual foi descoberto atraves da exploração dos dados)
 ----------------------------------------------------------------------------------
 
 Etapas:<br>
@@ -25,8 +25,17 @@ Etapas:<br>
 &emsp;&emsp; 2.2 Analise da região sul <br>
 &emsp;&emsp; 2.3 Rio Grande do Sul<br>
 
-&emsp; 3 - Conclusões <br>
+&emsp; 3 - Conclusões: <br>
+
+&emsp;&emsp;Por mais que as populações de Paraná e Rio Grande do Sul sejam muito parecidas, o Pará tem um aumento na cobertura vacinal um tanto considerável.
+ 
+&emsp;&emsp;No Rio Grande do Sul, segue-se uma média de: 2 862 746.52 de vacinações, e uma mediana de: 3280867.0
+ 
+&emsp;&emsp;Os motivos para esta baixa, em 2012, são inconclusivos, pois tem se o início de movimentos anti-vacinas, e também, a mudança do sistema para computar vacinas. Então no caso pode ser que esta baixa seja apenas computacional e não um reflexo da realidade.
+ 
 
 &emsp; 4 - Trabalhos futuros <br>
+ 
+&emsp;&emsp;Arrumar o gráfico de barras, para deixar conforme for crescendo a quantidade de vacinas as barras irem escurecendo.
 
 -------------------------------------------------------------------------------
