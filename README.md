@@ -1,4 +1,4 @@
-# Análise da cobertura Vacinal por Ano segundo Unidade da Federação
+# Análise da cobertura de vacinação por Ano segundo Unidade da Federação
 
 
 <br> IMUNIZAÇÕES - COBERTURA - BRASIL
